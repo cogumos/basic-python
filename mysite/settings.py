@@ -25,7 +25,7 @@ SECRET_KEY = '9hl%1+!i_odqwvaf=py05lj*43b%dg4_$vri&9g^7ape+!-amy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["cogumos.pythonanywhere.com"]
 
 
 # Application definition
